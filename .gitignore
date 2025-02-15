@@ -1,0 +1,6 @@
+.env
+.venv
+data
+final_model
+model
+results
